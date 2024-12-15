@@ -1,0 +1,29 @@
+{
+  "name": "talenvo_educonnect",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shyllon/Talenvo_EduConnect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shyllon/Talenvo_EduConnect/issues"
+  },
+  "homepage": "https://github.com/Shyllon/Talenvo_EduConnect#readme",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.2.0",
+    "express-validator": "^7.2.0",
+    "mongoose": "^8.9.0"
+  }
+}
